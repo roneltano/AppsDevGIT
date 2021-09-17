@@ -1,0 +1,35 @@
+html,
+body {
+  margin: auto;
+}
+h1 {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  margin-left: 50px;
+}
+.container {
+  width: 360px;
+}
+#input {
+  width: 300px;
+  height: 40px;
+  border: 1 solid blue;
+  outline: none;
+  font-size: 20px;
+  vertical-align: middle;
+  margin-left: 400px;
+}
+#add {
+  height: 40px;
+  width: 60px;
+  vertical-align: middle;
+  font-size: 20px;
+}
+
+.todo {
+  margin-left: 220px;
+}
+.styling {
+  margin: 0;
+  cursor: pointer;
+  font-size: 20px;
+}
