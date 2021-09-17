@@ -1,0 +1,56 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.navigation{
+  margin: 10px 10px;
+  font-size: 20px;
+}
+
+.navigation .nav-item .nav-link{
+  color: antiquewhite;
+  margin: 0 10px;
+}
+
+.navigation .nav-item .nav-link:hover{
+  color:antiquewhite;
+  margin: 0 10px;
+  }
+
+.banner{
+  background-image: url("man.jpg");
+  height: 630px;
+  position: relative;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.banner h1{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color:azure;
+  margin-left: 40px;
+  margin-top: 300px;
+  font-size: 50px;
+}
+
+.banner p{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: azure;
+  margin-left: 40px;
+  font-size: 15px;
+  width: 80%;
+  text-align: justify;
+  
+}
+
+.banner a{
+  background-color: rgb(231, 89, 7);
+  font-size: 15px;
+  color:azure;
+  width: 170px;
+  margin-left: 40px;
+  border-radius:40px;
+  
+}
